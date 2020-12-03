@@ -1,0 +1,68 @@
+GFORTRAN module created from la_auxmod.f90 on Sat Jan  3 17:04:23 2009
+MD5:555d9e074554af8b03be3b83c0b57863 -- If you edit this, you'll get what you deserve.
+
+(() () () () () () () () () () () () () () () () () () () () () () () ()
+() () ())
+
+()
+
+()
+
+()
+
+()
+
+(2 'erinfo' 'la_auxmod' 'erinfo' 1 ((PROCEDURE UNKNOWN-INTENT
+MODULE-PROC BODY UNKNOWN SUBROUTINE ALWAYS_EXPLICIT) (UNKNOWN 0 0 0
+UNKNOWN ()) 3 0 (4 5 6 7) () 0 () () 0 0)
+8 'la_auxmod' 'la_auxmod' 'la_auxmod' 1 ((MODULE UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN UNKNOWN) (UNKNOWN 0 0 0 UNKNOWN ()) 0 0 () () 0 ()
+() 0 0)
+9 'la_ws_gels' 'la_auxmod' 'la_ws_gels' 1 ((PROCEDURE UNKNOWN-INTENT
+MODULE-PROC BODY UNKNOWN FUNCTION) (INTEGER 4 0 0 INTEGER ()) 10 0 (11
+12 13 14 15) () 9 () () 0 0)
+16 'la_ws_gelss' 'la_auxmod' 'la_ws_gelss' 1 ((PROCEDURE UNKNOWN-INTENT
+MODULE-PROC BODY UNKNOWN FUNCTION) (INTEGER 4 0 0 INTEGER ()) 17 0 (18
+19 20 21) () 16 () () 0 0)
+22 'lsame' 'la_auxmod' 'lsame' 1 ((PROCEDURE UNKNOWN-INTENT MODULE-PROC
+DECL UNKNOWN FUNCTION) (LOGICAL 4 0 0 LOGICAL ()) 23 0 (24 25) () 22 ()
+() 0 0)
+5 'srname' '' 'srname' 3 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN
+DUMMY) (CHARACTER 1 0 0 CHARACTER (())) 0 0 () () 0 () () 0 0)
+4 'linfo' '' 'linfo' 3 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN DUMMY)
+(INTEGER 4 0 0 INTEGER ()) 0 0 () () 0 () () 0 0)
+6 'info' '' 'info' 3 ((VARIABLE OUT UNKNOWN-PROC UNKNOWN UNKNOWN
+OPTIONAL DUMMY) (INTEGER 4 0 0 INTEGER ()) 0 0 () () 0 () () 0 0)
+7 'istat' '' 'istat' 3 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN
+OPTIONAL DUMMY) (INTEGER 4 0 0 INTEGER ()) 0 0 () () 0 () () 0 0)
+11 'ver' '' 'ver' 10 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN DUMMY) (
+CHARACTER 1 0 0 CHARACTER ((CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '1')))
+0 0 () () 0 () () 0 0)
+12 'm' '' 'm' 10 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN DUMMY) (
+INTEGER 4 0 0 INTEGER ()) 0 0 () () 0 () () 0 0)
+13 'n' '' 'n' 10 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN DUMMY) (
+INTEGER 4 0 0 INTEGER ()) 0 0 () () 0 () () 0 0)
+14 'nrhs' '' 'nrhs' 10 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN DUMMY)
+(INTEGER 4 0 0 INTEGER ()) 0 0 () () 0 () () 0 0)
+15 'trans' '' 'trans' 10 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN
+DUMMY) (CHARACTER 1 0 0 CHARACTER ((CONSTANT (INTEGER 4 0 0 INTEGER ())
+0 '1'))) 0 0 () () 0 () () 0 0)
+18 'ver' '' 'ver' 17 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN DUMMY) (
+CHARACTER 1 0 0 CHARACTER ((CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '1')))
+0 0 () () 0 () () 0 0)
+19 'm' '' 'm' 17 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN DUMMY) (
+INTEGER 4 0 0 INTEGER ()) 0 0 () () 0 () () 0 0)
+20 'n' '' 'n' 17 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN DUMMY) (
+INTEGER 4 0 0 INTEGER ()) 0 0 () () 0 () () 0 0)
+21 'nrhs' '' 'nrhs' 17 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN DUMMY)
+(INTEGER 4 0 0 INTEGER ()) 0 0 () () 0 () () 0 0)
+24 'ca' '' 'ca' 23 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN DUMMY) (
+CHARACTER 1 0 0 CHARACTER ((CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '1')))
+0 0 () () 0 () () 0 0)
+25 'cb' '' 'cb' 23 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN DUMMY) (
+CHARACTER 1 0 0 CHARACTER ((CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '1')))
+0 0 () () 0 () () 0 0)
+)
+
+('erinfo' 0 2 'la_auxmod' 0 8 'la_ws_gels' 0 9 'la_ws_gelss' 0 16 'lsame'
+0 22)
